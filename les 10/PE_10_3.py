@@ -1,4 +1,8 @@
-1=B
-2=A
-3=D
-4=
+A=B
+B=A
+C=D
+D=C
+E=C
+F=B
+G=C
+H=B
